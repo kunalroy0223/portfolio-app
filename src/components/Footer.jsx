@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-container">
           <div className="foot-container logo-container">
             <a href="#Home">
-              <img src="../images/Logo.png" alt="logo" className="foot-logo" height="50px" />
+              <img src="../images/logo.png" alt="logo" className="foot-logo" height="50px" />
             </a>
             <p className="address">
               <img src="../images/map.png" alt="location" height="15px" />
