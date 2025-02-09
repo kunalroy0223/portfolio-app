@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "zoom",
+          "backdrop-filter"
+        ]
+      }
+    ],
+    "compat-api/html": "off",
+    "detect-css-reflows/paint": "off"
+  }
+}
